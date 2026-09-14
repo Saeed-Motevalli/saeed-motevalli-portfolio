@@ -541,7 +541,8 @@ footer p {
 
 @media (max-width: 900px) {
   .hero {
-    padding-top: 50px;
+    padding-top: 30px;
+    text-align: justify;
   }
   .nav {
     flex-direction: column;
