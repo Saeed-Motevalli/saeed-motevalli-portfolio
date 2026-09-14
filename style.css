@@ -540,14 +540,15 @@ footer p {
 =========================== */
 
 @media (max-width: 900px) {
+  .hero {
+    padding-top: 50px;
+  }
   .nav {
     flex-direction: column;
 
     height: auto;
 
     padding: 20px 0;
-
-    gap: 20px;
   }
 
   nav ul {
