@@ -84,7 +84,7 @@ Features:
 - User account pages
 - Responsive design
 
-GitHub:
+🔗 GitHub:
 
 https://github.com/Saeed-Motevalli/derafsh-ecommerce
 
@@ -108,7 +108,7 @@ Features:
 - Dynamic weather information
 - Responsive interface
 
-GitHub:
+🔗 GitHub:
 
 https://github.com/Saeed-Motevalli/weather-app
 
@@ -132,13 +132,33 @@ Features:
 - Interactive UI
 - DOM manipulation
 
-GitHub:
+🔗 GitHub:
 
 https://github.com/Saeed-Motevalli/todo-app
 
 Live Demo:
 
 https://saeed-motevalli.github.io/todo-app/www/index.html
+
+---
+
+## 📝 Multi-Step Registration Form
+
+A modern multi-step registration form built with HTML, CSS, and JavaScript.
+
+Features:
+
+- Multi-step registration flow
+- Form validation
+- Password strength checker
+- Password visibility toggle
+- Interactive UI states
+- Responsive layout
+
+🔗 GitHub:
+https://github.com/Saeed-Motevalli/multi-step-registration-form
+
+Live Demo: https://saeed-motevalli.github.io/multi-step-registration-form/
 
 ---
 
@@ -187,7 +207,8 @@ personal-portfolio
 │   │   ├── profile.jpg
 │   │   ├── derafsh.png
 │   │   ├── weather.png
-│   │   └── todo.png
+│   │   ├── todo.png
+│   │   └── registration-form.png
 │   │
 │   └── favicon
 │       └── Blue.webp
